@@ -28,3 +28,4 @@ To use the Image Resizer, follow these steps:
 1. Place all images you want to resize in a single directory (e.g., `images_to_process`).
 2. Open `image_resizer.py` in your text editor and set the `folder_path` variable to the path of your images directory.
 3. Run the script from your terminal or command prompt:
+   1. ``python image_resizer.py``
